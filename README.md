@@ -1,5 +1,11 @@
 # message-app
 
+## Dependencies
+- vue : v3.0.0
+- vueX: v4.0.0-rc.1
+- vue-router: v4.0.0-rc.3
+- axios: v0.21.0
+
 ## Project setup
 ```
 npm install
